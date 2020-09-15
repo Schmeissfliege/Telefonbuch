@@ -6,7 +6,7 @@ public class Telefonbuch
 {
   /* Attribute */
     private List<BinarySearchTree> a;
-    private BinarySearchTree/*<>*/ b;
+    private BinarySearchTree b;
     private boolean sortierung;
     private Scanner sc;
   /* Konstruktor */
