@@ -4,8 +4,9 @@
 public class Telefonbuch
 {
   /* Attribute */
-	private BinarySearchTree a;
-	private boolean sortierung;
+    private List a;
+    private BinarySearchTree b;
+    private boolean sortierung;
   /* Methoden */
   /**  */
   public void hinzufuegen(String  eintrag){
